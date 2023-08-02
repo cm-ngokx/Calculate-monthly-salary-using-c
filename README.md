@@ -1,4 +1,4 @@
-# Calculate-monthly-salary-using-c (Development)
+# Calculate-monthly-salary-using-c (Production)
 
 <img src="https://www.morebusiness.com/wp-content/uploads/2007/10/calculator-tablet-pen.jpg">
 
